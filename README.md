@@ -50,8 +50,11 @@ Is subject to reasonable daily usage limits to prevent abuse.
 Clamera uses the following third-party services to operate:
 
 Firebase (Google) — authentication, database, cloud functions, and storage
+
 Google Sign-In — optional account authentication
+
 Google Mobile Ads — advertisement delivery
+
 Google Gemini API — AI fish species identification
 
 Your use of Clamera is also subject to the applicable terms and privacy policies of these third-party providers.
