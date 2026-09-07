@@ -79,7 +79,7 @@ We may update these Terms from time to time. Continued use of the App after chan
 
 If you have questions about these Terms or wish to report a concern, please contact us at:
 
-clameraapp@gmail.com
+**clameraapp@gmail.com**
 
 ---
 
