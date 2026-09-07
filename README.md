@@ -17,7 +17,7 @@ You must be at least 13 years old to create an account and use Clamera. If you a
 
 ## User-Generated Content
 
-Clamera allows you to upload content, including but not limited to profile pictures, catch photos, descriptions, and usernames ("User Content").
+Clamera allows you to upload content, including but not limited to profile pictures, catch photos, descriptions, and usernames.
 
 - **You retain ownership** of any User Content you upload. By uploading User Content, you grant Clamera a non-exclusive, worldwide, royalty-free license to host, store, display, and distribute that content within the App and for the purpose of operating and promoting the Service.
 - **You are solely responsible** for the User Content you upload. You represent that you own or have the necessary rights to any photo, image, or content you submit, and that it does not infringe the copyright, trademark, privacy, or other rights of any third party.
@@ -26,7 +26,7 @@ Clamera allows you to upload content, including but not limited to profile pictu
 
 ## Reporting Content or Users
 
-If you encounter content or behavior that violates these Terms, please report it to us at **[YOUR SUPPORT EMAIL HERE]**. We will review reports and take appropriate action, which may include removing content, suspending accounts, or banning users who violate these Terms.
+If you encounter content or behavior that violates these Terms, please report it to us at **Clameraapp@gmail.com**. We will review reports and take appropriate action, which may include removing content, suspending accounts, or banning users who violate these Terms.
 
 You may also block other users within the App to prevent further interaction with them.
 
