@@ -1,6 +1,6 @@
 # Privacy Policy for Clamera
 
-**Last Updated: September 4, 2026**
+**Last Updated: September 27, 2026**
 
 This Privacy Policy describes how Clamera ("we," "us," "our") collects, uses, and shares information when you use the Clamera mobile application ("App," "Service"). By using Clamera, you agree to the collection and use of information as described in this policy.
 
@@ -21,7 +21,7 @@ If you sign in with Google, we receive your Google account email and profile inf
 - Username and any username changes you make
 
 ### Photos Submitted for AI Species Identification
-When you use Clamera's fish identification feature, the photo you submit is sent to Google's Gemini AI service for analysis, in order to identify the species shown. This photo is processed by Google's Gemini API and is not stored by us beyond what is necessary to complete the identification request.
+When you use Clamera's fish identification feature, the photo you submit is sent to OpenAI's API for analysis, in order to identify the species shown. This photo is processed by OpenAI and is not stored by us beyond what is necessary to complete the identification request.
 
 ### Usage & App Activity Data
 - Clam Points balance and transaction history (earned, spent, gifted)
@@ -52,9 +52,9 @@ Clamera relies on the following third-party services, each of which processes ce
 - **Firebase (Google)** — authentication, database storage, cloud functions, and file storage
 - **Google Sign-In** — optional account authentication
 - **Google Mobile Ads** — advertisement delivery and measurement
-- **Google Gemini API** — AI-based fish species identification from submitted photos
+- **OpenAI API** — AI-based fish species identification from submitted photos
 
-Each of these services has its own privacy practices, governed by Google's Privacy Policy, which you can review at [https://policies.google.com/privacy](https://policies.google.com/privacy).
+Firebase, Google Sign-In, and Google Mobile Ads are governed by Google's Privacy Policy, which you can review at [https://policies.google.com/privacy](https://policies.google.com/privacy). The OpenAI API is governed by OpenAI's Privacy Policy, which you can review at [https://openai.com/privacy](https://openai.com/privacy).
 
 ## Data Storage & Security
 
@@ -77,7 +77,7 @@ Clamera is not directed at children under the age of 13, and we do not knowingly
 
 ## International Users
 
-If you use Clamera from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States or other countries where our service providers (including Firebase and Google) operate.
+If you use Clamera from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States or other countries where our service providers (including Firebase, Google, and OpenAI) operate.
 
 ## Changes to This Privacy Policy
 
