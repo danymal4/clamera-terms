@@ -42,7 +42,7 @@ Clamera may display third-party advertisements, including rewarded video ads, th
 
 ## AI-Powered Fish Identification
 
-Clamera uses an AI model (via Google's Gemini API) to identify fish species from photos you submit. This feature:
+Clamera uses an AI model (via Open AI's API) to identify fish species from photos you submit. This feature:
 
 - Is provided for entertainment and informational purposes only, and identification results may be inaccurate or incorrect.
 - Should not be relied upon for safety-critical decisions (e.g., determining whether a fish is safe to eat or legal to keep). Always consult local wildlife authorities or field guides for such determinations.
@@ -55,7 +55,7 @@ Clamera uses the following third-party services to operate:
 - **Firebase** (Google) — authentication, database, cloud functions, and storage
 - **Google Sign-In** — optional account authentication
 - **Google Mobile Ads** — advertisement delivery
-- **Google Gemini API** — AI fish species identification
+- **Open AI API** — AI fish species identification
 
 Your use of Clamera is also subject to the applicable terms and privacy policies of these third-party providers.
 
